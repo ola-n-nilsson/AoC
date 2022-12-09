@@ -1,0 +1,8 @@
+{RIGHT, 5},
+{UP, 8},
+{LEFT, 8},
+{DOWN, 3},
+{RIGHT, 17},
+{DOWN, 10},
+{LEFT, 25},
+{UP, 20}
