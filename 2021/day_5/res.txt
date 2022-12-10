@@ -1,0 +1,166 @@
+2 ola: line 0 
+2 ola: line 1 
+2 ola: line 3 
+1 ola: line 4 goes backwards in x
+2 ola: line 15 
+2 ola: line 19 
+2 ola: line 32 
+1 ola: line 34 goes backwards in x
+2 ola: line 35 
+4 ola: line 36 
+4 ola: line 37 
+4 ola: line 41 
+4 ola: line 44 
+4 ola: line 48 
+4 ola: line 51 
+4 ola: line 53 
+4 ola: line 54 
+2 ola: line 70 
+2 ola: line 76 
+2 ola: line 77 
+4 ola: line 78 
+4 ola: line 85 
+2 ola: line 86 
+1 ola: line 94 goes backwards in x
+4 ola: line 97 
+2 ola: line 101 
+2 ola: line 103 
+1 ola: line 106 goes backwards in x
+1 ola: line 109 goes backwards in x
+4 ola: line 111 
+1 ola: line 112 goes backwards in x
+4 ola: line 113 
+4 ola: line 116 
+4 ola: line 117 
+4 ola: line 118 
+1 ola: line 122 goes backwards in x
+4 ola: line 126 
+1 ola: line 127 goes backwards in x
+2 ola: line 130 
+1 ola: line 133 goes backwards in x
+1 ola: line 136 goes backwards in x
+4 ola: line 137 
+2 ola: line 140 
+1 ola: line 145 goes backwards in x
+4 ola: line 147 
+2 ola: line 150 
+4 ola: line 153 
+1 ola: line 154 goes backwards in x
+4 ola: line 155 
+1 ola: line 156 goes backwards in x
+1 ola: line 157 goes backwards in x
+4 ola: line 159 
+1 ola: line 164 goes backwards in x
+4 ola: line 166 
+4 ola: line 170 
+4 ola: line 180 
+4 ola: line 181 
+4 ola: line 182 
+2 ola: line 184 
+2 ola: line 185 
+2 ola: line 190 
+4 ola: line 196 
+2 ola: line 198 
+1 ola: line 203 goes backwards in x
+1 ola: line 207 goes backwards in x
+2 ola: line 209 
+4 ola: line 210 
+4 ola: line 212 
+1 ola: line 214 goes backwards in x
+4 ola: line 216 
+4 ola: line 217 
+1 ola: line 218 goes backwards in x
+2 ola: line 219 
+2 ola: line 221 
+1 ola: line 223 goes backwards in x
+4 ola: line 224 
+2 ola: line 226 
+2 ola: line 228 
+4 ola: line 231 
+4 ola: line 232 
+1 ola: line 237 goes backwards in x
+1 ola: line 239 goes backwards in x
+2 ola: line 240 
+2 ola: line 242 
+4 ola: line 249 
+2 ola: line 250 
+4 ola: line 254 
+2 ola: line 258 
+2 ola: line 264 
+1 ola: line 265 goes backwards in x
+4 ola: line 266 
+4 ola: line 267 
+4 ola: line 268 
+1 ola: line 269 goes backwards in x
+1 ola: line 272 goes backwards in x
+1 ola: line 274 goes backwards in x
+2 ola: line 275 
+4 ola: line 277 
+1 ola: line 278 goes backwards in x
+4 ola: line 280 
+1 ola: line 282 goes backwards in x
+2 ola: line 284 
+4 ola: line 285 
+2 ola: line 286 
+4 ola: line 291 
+4 ola: line 294 
+2 ola: line 296 
+4 ola: line 299 
+1 ola: line 309 goes backwards in x
+1 ola: line 310 goes backwards in x
+4 ola: line 322 
+2 ola: line 330 
+4 ola: line 334 
+1 ola: line 335 goes backwards in x
+2 ola: line 336 
+2 ola: line 338 
+4 ola: line 345 
+4 ola: line 348 
+4 ola: line 350 
+2 ola: line 352 
+2 ola: line 353 
+1 ola: line 355 goes backwards in x
+4 ola: line 356 
+2 ola: line 358 
+4 ola: line 359 
+2 ola: line 360 
+4 ola: line 363 
+2 ola: line 365 
+2 ola: line 366 
+4 ola: line 371 
+1 ola: line 372 goes backwards in x
+1 ola: line 374 goes backwards in x
+4 ola: line 377 
+2 ola: line 388 
+4 ola: line 389 
+4 ola: line 391 
+4 ola: line 395 
+4 ola: line 398 
+4 ola: line 399 
+2 ola: line 402 
+2 ola: line 403 
+4 ola: line 408 
+4 ola: line 418 
+4 ola: line 420 
+4 ola: line 427 
+2 ola: line 428 
+1 ola: line 432 goes backwards in x
+1 ola: line 444 goes backwards in x
+2 ola: line 447 
+4 ola: line 451 
+4 ola: line 455 
+2 ola: line 460 
+4 ola: line 461 
+1 ola: line 467 goes backwards in x
+2 ola: line 468 
+1 ola: line 469 goes backwards in x
+1 ola: line 471 goes backwards in x
+1 ola: line 472 goes backwards in x
+4 ola: line 478 
+4 ola: line 479 
+4 ola: line 481 
+4 ola: line 486 
+4 ola: line 487 
+4 ola: line 488 
+4 ola: line 489 
+Count: 19016
