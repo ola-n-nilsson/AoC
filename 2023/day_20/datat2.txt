@@ -1,0 +1,7 @@
+{guard,'g'},
+{broadcaster,'b'},
+{a, '%'},
+{b, '%'},
+{c, '%'},
+{inv, '&'},
+{end, 'e'}
