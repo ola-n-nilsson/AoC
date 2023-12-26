@@ -1,0 +1,14 @@
+{jqt,rhn,xhk,nvd,(node_t)-1},
+{rsh,frs,pzl,lsr,(node_t)-1},
+{xhk,hfx,(node_t)-1},
+{cmg,qnr,nvd,lhk,bvb,(node_t)-1},
+{rhn,xhk,bvb,hfx,(node_t)-1},
+{bvb,xhk,hfx,(node_t)-1},
+{pzl,lsr,hfx,nvd,(node_t)-1},
+{qnr,nvd,(node_t)-1},
+{ntq,jqt,hfx,bvb,xhk,(node_t)-1},
+{nvd,lhk,(node_t)-1},
+{lsr,lhk,(node_t)-1},
+{rzs,qnr,cmg,lsr,rsh,(node_t)-1},
+{frs,qnr,lhk,lsr,(node_t)-1}
+
