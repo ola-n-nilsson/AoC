@@ -43,8 +43,8 @@ int main(int argc, char* argv[])
     for(int i=0;i<rlen;i++)
     {
       unsigned int cnt=0;
-      //LMF, binsearch and count...
-      for(int j=0;j<rlen;j++)
+      //LMF, binsearch
+      for(int j=0;(j<rlen) && (range1[i]>=range2[j]);j++)
       {
         if(range1[i]==range2[j])
         {
