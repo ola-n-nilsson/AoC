@@ -25,8 +25,6 @@ int main(int argc, char* argv[])
   maxx = strlen(data[0]);
   int loopcnt = 0;
   
-  memset(visited,0,sizeof(visited));
-  
   for(int y=0;(y<maxy)&&(startx==-1);y++)
   {
     for(int x=0;x<maxx;x++)
@@ -56,6 +54,7 @@ int main(int argc, char* argv[])
       {
         continue;
       }
+      memset(visited,0,sizeof(visited));
       
       do
       {
