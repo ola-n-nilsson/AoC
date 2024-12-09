@@ -58,8 +58,6 @@ int main(int argc, char* argv[])
       if(data[y][x]!='.')
       {
         insert(y,x,data[y][x]);
-        cnt[y][x]++;  // "including the antinodes that appear on every antenna" ...
-        fcnt++;
       }
     }
   }
@@ -95,6 +93,18 @@ int main(int argc, char* argv[])
           int ny2=(p2->y) - dy;
           int nx2=(p2->x) - dx;
 
+          // "including the antinodes that appear on every antenna" ...
+          if(!cnt[p->y][p->x])
+          {
+            fcnt++;
+          }
+          cnt[p->y][p->x]++;
+          if(!cnt[p2->y][p2->x])
+          {
+            fcnt++;
+          }
+          cnt[p2->y][p2->x]++;
+          
           //printf("Calc %c for nodes: %i:%i %i:%i\n",c,p->y,p->x,p2->y,p2->x);
           while((ny1>=0) && (ny1<maxy) && (nx1>=0) && (nx1<maxx))
           {
