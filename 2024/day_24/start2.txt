@@ -1,0 +1,10 @@
+values[x00] = 1;
+values[x01] = 0;
+values[x02] = 1;
+values[x03] = 1;
+values[x04] = 0;
+values[y00] = 1;
+values[y01] = 1;
+values[y02] = 1;
+values[y03] = 1;
+values[y04] = 1;
