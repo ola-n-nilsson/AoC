@@ -1,0 +1,12 @@
+"973A","^^^A<<A>>vvAvA",
+"973A","^^^A<<Avv>>AvA",
+"836A","<^^^A>vvA^AvvA",
+"836A","^^^<A>vvA^AvvA",
+"836A","<^^^Avv>A^AvvA",
+"836A","^^^<Avv>A^AvvA",
+//"780A","<<^^^A>AvvvA>A", Would hit X
+"780A","^^^<<A>AvvvA>A",
+"985A","^^^A<AvA>vvA",
+"985A","^^^A<AvAvv>A",
+//"413A","<<^^AvA>>AvA", Would hit X
+"413A","^^<<AvA>>AvA"
