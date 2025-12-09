@@ -11,9 +11,7 @@ const int data[] = {
 int inside(int y,int x)
 {
   int cross = 0;
-  int debug = ((y==1) && (x==90));
-
-  if(debug) printf("\n");
+  
   for(int i=0;i<(sizeof(data)/sizeof(data[0]));i+=2)
   {
     int j = (i+2)%(sizeof(data)/sizeof(data[0]));
@@ -128,4 +126,5 @@ int main(int argc, char* argv[])
 
   return 0;
 }
+
 
