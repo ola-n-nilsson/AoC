@@ -1,0 +1,12 @@
+NOC,NOC,
+aaa,you,hhh,NOC,
+bbb,ddd,eee,NOC,
+ccc,ddd,eee,fff,NOC,
+ddd,ggg,NOC,
+eee,out,NOC,
+fff,out,NOC,
+ggg,out,NOC,
+hhh,ccc,fff,iii,NOC,
+iii,out,NOC,
+you,bbb,ccc,NOC,
+out,NOC
